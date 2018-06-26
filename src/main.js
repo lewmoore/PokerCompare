@@ -1,9 +1,10 @@
+let Result = { "win": 1, "loss": 2, "tie": 3 };
+
 class PokerHand {
 
-	let Result = { "win": 1, "loss": 2, "tie": 3 };
-	
-	constructor(){
 
+	constructor(handOne){
+		this.handOne = handOne
 	}
 
 	compareWith(hand){
