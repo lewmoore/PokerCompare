@@ -2,7 +2,7 @@
 
 ## Summary
 
-This is a Javascript application that, when initialised with a poker hand, can be compared against another poker hand in order to see which hand wins. This is built using javascript, Jasmine, Karma and utilises the[Pokersolver library](https://github.com/goldfire/pokersolver).
+This is a Javascript application that, when initialised with a poker hand, can be compared against another poker hand in order to see which hand wins. This is built using javascript, Jasmine, Karma and utilises the [Pokersolver library](https://github.com/goldfire/pokersolver).
 
 ## Instructions
 
