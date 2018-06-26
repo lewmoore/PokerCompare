@@ -6,6 +6,6 @@ describe('PokerHand', function(){
   })
 
   it('accepts a string on initialise', function(){
-    expect(hand.handOne).toEqual('AH KH QH JH TH')
+    expect(hand.handOne).toEqual(['AH', 'KH', 'QH', 'JH', 'TH'])
   })
 })

@@ -4,10 +4,11 @@ class PokerHand {
 
 
 	constructor(handOne){
-		this.handOne = handOne
+		this.handOne = handOne.split(' ')
 	}
 
 	compareWith(hand){
 		return Result.tie
 	}
+
 }
